@@ -1,0 +1,6 @@
+echo "enter the name"
+read name
+echo"enter number"
+read number
+echo "enter address"
+read address
